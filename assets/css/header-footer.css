@@ -29,7 +29,7 @@
 	font-weight: 700;
 }
 .top-header ul li a:hover{
-	color: #E41D32;
+	color: #FFCC06;
 }
 .topp li a{
 	border: none !important;
@@ -47,7 +47,7 @@
     font-size: 12px !important;
 }
 .social-icon a:hover{
-	background: #E41D32;
+	background: #FFCC06;
 }
 .sitelogo{
 	max-width: 200px;
@@ -241,7 +241,7 @@ header.mid-header.site-header {
 	font-size: 14px;
 }
 .footer-section ul li a:hover{
-	color:#F03C02;
+	color:#FFCC06;
 	font-weight: 100;
 }
 .footer-section p{

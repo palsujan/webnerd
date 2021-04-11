@@ -102,7 +102,7 @@ $(document).on("scroll",function(){
          }
       });
 
-      
+
          (function(){
 
 
@@ -171,7 +171,6 @@ wow = new WOW({
 
 
 });
-document.getElementById("year").innerHTML = new Date().getFullYear();
 document.getElementById("year").innerHTML = new Date().getFullYear();
 var lowerSlider = document.querySelector('#lower');
 var  upperSlider = document.querySelector('#upper');
